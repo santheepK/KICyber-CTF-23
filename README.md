@@ -5,14 +5,14 @@ We would encourage you to go through some of the pre-reads and CTF walkthroughs 
 Pre/reads / Pre-requisites –
 
 Cloud Pentest: 
-•	Pre-read: AWS CLI, Intro to Cloud Pentesting
-•	Tools you may need:
-•	AWS CLI (Command Line Interface) or Azure CLI: These tools allow you to interact with cloud services from the command line.
-•	Cloud Security Assessment Tools: Tools like ScoutSuite, Prowler, and CloudMapper can assess the security of your cloud environment.
+- Pre-read: AWS CLI, Intro to Cloud Pentesting
+- Tools you may need:
+- AWS CLI (Command Line Interface) or Azure CLI: These tools allow you to interact with cloud services from the command line.
+- Cloud Security Assessment Tools: Tools like ScoutSuite, Prowler, and CloudMapper can assess the security of your cloud environment.
 
 Cryptography:
-•	Pre-read: Cryptography
-•	Tools you may need:
+- Pre-read: Cryptography
+- Tools you may need:
 •	CyberChef: A web-based tool that can handle various encoding, encryption, and hashing operations.
 •	Hashcat: A powerful password cracking tool that supports various hash algorithms.
 •	Infrastructure Pentest:
